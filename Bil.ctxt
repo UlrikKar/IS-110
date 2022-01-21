@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bil
+comment1.params=
+comment1.target=Bil()
+comment1.text=\n\ Creates\ a\ car\ with\ a\ random\ name\ and\ color.\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\n\ Gets\ a\ brief\ description\ of\ the\ car.\n
+comment3.params=color
+comment3.target=void\ setColor(java.lang.String)
+comment3.text=\n\ Sets\ a\ new\ color\ for\ the\ car.\n
+numComments=4
